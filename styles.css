@@ -1,0 +1,48 @@
+#navbar {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.top-banner-links {
+    margin-left: 15px;
+    text-decoration: none;
+    color: rgb(6, 8, 8);
+}
+#top-banner-links-gmail {
+    text-decoration: none;
+    color: rgb(6, 8, 8);
+    margin-left: 280px;
+}
+
+#top-banner-links-images {
+    text-decoration: none;
+    color: rgb(6, 8, 8);
+    margin-left: 15px;
+
+}
+
+#more-apps-icon {
+    width: 25px;
+    padding-left: 30px;
+}
+
+#account-icon {
+    height: 25px;
+    padding-left: 30px;
+}
+
+#google {
+    padding-top: 35%;
+    padding-left: 35%;
+}
+
+#searchbar {
+    margin:0 auto;
+  width:575px;
+  border-radius:30px;
+  border:1px solid #dcdcdc;
+
+
+    
+    
+}
