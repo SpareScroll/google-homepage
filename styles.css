@@ -66,3 +66,28 @@
 #mic-icon {
     margin-top: 15px;
 }
+
+#btn-div {
+}
+
+#btns-google {
+    border: none;
+    width: 150px;
+    height: 30px;
+    margin-top: 30px;
+    margin-left: 200px;
+    background-color: #f5f0f0;
+    float: left;
+
+
+}
+
+#btns-lucky {
+    border: none;
+    width: 150px;
+    height: 30px;
+    margin-top: 30px;
+    margin-left: 400px;
+    background-color: #f5f0f0;
+    
+}
