@@ -1,3 +1,8 @@
+body {
+    margin: none;
+}
+
+/* NAVBAR */
 .navbar {
     width: 100%;
     margin-top: 1%;
@@ -30,9 +35,9 @@
     margin-left: 1%;
 }
 
-#account-icon {
-  
-}
+/* END OF NAVBAR */
+
+/* SEARCHBAR */
 
 #google {
     padding-left: 44%;
@@ -89,4 +94,50 @@
     height: 30px;
     background-color: #f5f0f0;
         
+}
+
+/* END OF SEARCHBAR */
+
+/* Footer */
+
+#footer {
+    padding-top: 1px;
+    background-color: #e5e5e5;
+    width: 100%;
+    margin-left: none;
+    margin-top: 12.5%;
+    padding-bottom: 1px;
+}
+
+#location {
+    font-family: 'Roboto', sans-serif;
+}
+
+#footer-seperator {
+
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    font-family: 'Roboto', sans-serif;
+}
+
+.left-side-footer {
+    margin-right: 10px;
+    display: inline;
+
+}
+
+.right-side-footer {
+    margin-left: 10px;
+    
+}
+
+#right-first-side-footer {
+    margin-left: 88%;
+}
+
+#carbon-icon {
+    margin-left: 500px;
 }
